@@ -50,7 +50,6 @@
 <b>Conteúdo Carreira</b>
 <br></br>
 <table>
-  
 <tr><td>Git e Fluxo de Trabalho em Equipe</td><td> Entender como usar o Git para controle de versão e colaborar eficazmente em projetos de equipe, incluindo a gestão de branches, commits, merges, e resolução de conflitos.</td></tr>
 
 <tr><td>Marca Pessoal e Plano de Carreira</td><td> Explorar como desenvolver uma marca pessoal sólida e criar um plano de carreira que alavanque suas habilidades e objetivos profissionais.</td></tr>
@@ -64,20 +63,43 @@
 <b>Conteúdo Técnico</b>
 
 <table>
-<tr><td>Funções</td><td>Ganhei mais expertise e facilidade na manipulação de funções, manipulando elas com array e objetos, assim como adquiri conhecimentos nas arrows functions</td></tr>
-<tr><td>Tipos de Dados II</td><td>Reforçei meus conhecimentos sobre tipagens no TypeScript e manipular os tipos, criar tipos e tipagem</td></tr>
-<tr><td>Tipos Utilitários</td><td>Aprendi os tipos utilitários, e suas utilidades na hora de manipular informações</td></tr>
-<tr><td>Métodos de Arrays</td><td>Aprendi os métodos de array mais importantes e adquiri facilidade e segurança com o uso dos métodos </td></tr>
-<tr><td>Métodos de Arrays II</td><td>Me aprofundei no assunto e aprendi os demais métodos de array mais importantes, adquiri facilidade e segurança com o uso dos métodos </td></tr>
-<tr><td>Métodos de Arrays III</td><td>Me aprofundei no assunto e aprendi os demais métodos de array mais importantes, adquiri facilidade e segurança com o uso dos métodos</td></tr>
-<tr><td>Métodos de Strings</td><td>Aprendi os métodos de string mais importantes e adquiri facilidade e segurança com o uso dos métodos de string</td></tr>
+<tr><td>Autenticação e Criptografia:</td><td>
+Uso do bcrypt para hashing de senhas e jsonwebtoken para geração e verificação de tokens JWT. Verificação de e-mails e senhas no processo de login, retornando mensagens apropriadas e status codes baseados na existência do usuário e validação de senha.</td></tr>
+
+<tr><td>Conexão Node.js com PostgreSQL:</td><td>
+
+Uso do pool.query para executar consultas SQL e interagir com um banco de dados PostgreSQL.
+Extração de dados específicos das consultas e manipulação das respostas para conformar com os requisitos dos endpoints.</td></tr>
+
+<tr><td>Consultas SQL:</td><td>
+Realização de consultas SQL complexas, incluindo JOIN entre tabelas para agregar dados relacionados.
+Uso de aliases (AS) para renomear colunas no resultado da consulta.</td></tr>
+
+<tr><td>Agrupamento e Relacionamentos entre Tabelas:</td><td>
+Implementação de JOIN entre tabelas, como entre resumos e materias, para relacionar dados de diferentes tabelas.
+Criação de consultas que retornam dados relacionados, como matérias associadas a resumos.</td></tr>
+
+<tr><td>CRUD SQL:</td><td>
+Implementação de operações de criação, leitura e verificação de dados em tabelas, como inserção de novos usuários e verificação de duplicidade de e-mails.</td></tr>
+
+<tr><td>Integração com API de Terceiros:</td><td>
+Embora não tenha sido abordado explicitamente, a manipulação de tokens JWT e a interação com bancos de dados externos demonstram uma base para a integração com APIs de terceiros.</td></tr>
   
 </table>
 <br>
 <b>Conteúdo Carreira</b>
 <br></br>
 <table>
-<tr><td>Currículo e carta de apresentação</td><td>Aprendi a melhorar meu currículo para a área de tecnologia e como fazer uma carta de apresentação, deixando ele mais apresentável e mais empregável</td></tr>
-<tr><td>Gestão de tempo</td><td>Aprendi de uma forma eficaz a finalmente gerir meu tempo, tive acesso a insights e programas de organização, hoje, uso o método pomodoro e programas de organização que estão melhorando minha gestão de tempo</td></tr>
-<tr><td>LinkedIn: primeiros passos</td><td>Aprendi como realmente funciona o algoritmo do linkedin para ter mais alcance a pessoas e vagas, e aprendi a como melhorar de forma sucinta meu currículo</td></tr>
+<tr><td>Git e Fluxo de Trabalho em Equipe:</td><td>
+
+Como usar o Git para controle de versão, incluindo operações básicas como commit, branch, merge, e resolução de conflitos durante o trabalho em equipe.</td></tr>
+
+<tr><td>Marca Pessoal e Plano de Carreira:</td><td>
+Conceitos iniciais sobre a importância de desenvolver uma marca pessoal e estratégias para planejar sua carreira, alinhando suas habilidades e metas profissionais.</td></tr>
+
+<tr><td>Diversidade e Inclusão em Tecnologia:</td><td>
+A importância da diversidade e inclusão no setor de tecnologia e as melhores práticas para criar ambientes de trabalho equitativos e inclusivos.</td></tr>
+
+<tr><td>Metodologias Ágeis:</td><td>
+Noções básicas sobre metodologias ágeis, como Scrum e Kanban, para melhorar a gestão de projetos e aumentar a colaboração e eficiência dentro de equipes de desenvolvimento.</td></tr>
 </table>
