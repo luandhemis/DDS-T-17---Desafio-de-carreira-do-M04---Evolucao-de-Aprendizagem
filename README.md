@@ -50,11 +50,14 @@
 <b>Conteúdo Carreira</b>
 <br></br>
 <table>
-<tr><td>Currículo e carta de apresentação</td><td>Aprender a melhorar meu currículo para a área de tecnologia e como fazer uma carta de apresentação</td></tr>
-<tr><td>Gestão de tempo</td><td>Aprender de uma forma eficaz a finalmente gerir meu tempo, ter acesso a insights e programas de organização</td></tr>
-<tr><td>LinkedIn: primeiros passos</td><td>Aprender como realmente funciona o algoritmo do linkedin para ter mais alcance a pessoas e vagas, e aprender a como melhorar de forma sucinta meu currículo</td></tr>
-</table>
+  
+<tr><td>Git e Fluxo de Trabalho em Equipe</td><td> Entender como usar o Git para controle de versão e colaborar eficazmente em projetos de equipe, incluindo a gestão de branches, commits, merges, e resolução de conflitos.</td></tr>
 
+<tr><td>Marca Pessoal e Plano de Carreira</td><td> Explorar como desenvolver uma marca pessoal sólida e criar um plano de carreira que alavanque suas habilidades e objetivos profissionais.</td></tr>
+
+<tr><td>Diversidade e Inclusão em Tecnologia</td><td> Compreender a importância da diversidade e inclusão no ambiente de tecnologia, e como promover práticas que garantam a participação equitativa de todos.</td></tr>
+
+<tr><td>Metodologias Ágeis</td><td> Aprender sobre as metodologias ágeis, como Scrum e Kanban, para melhorar a eficiência e adaptabilidade de equipes de desenvolvimento em projetos dinâmicos.</td></tr>
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
