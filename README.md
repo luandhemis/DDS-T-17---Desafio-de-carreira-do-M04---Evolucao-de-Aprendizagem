@@ -25,7 +25,6 @@
 
 
 <b>Conteúdo Técnico</b>
-
 <table>
 <tr><td>Introdução a Banco de Dados</td><td> Compreender os conceitos básicos de bancos de dados, incluindo o que são, como funcionam, e a importância de sua organização para o armazenamento e recuperação de informações.</td></tr>
 
@@ -48,7 +47,6 @@
 </table>
 <br>
 <b>Conteúdo Carreira</b>
-<br></br>
 <table>
 <tr><td>Git e Fluxo de Trabalho em Equipe</td><td> Entender como usar o Git para controle de versão e colaborar eficazmente em projetos de equipe, incluindo a gestão de branches, commits, merges, e resolução de conflitos.</td></tr>
 
